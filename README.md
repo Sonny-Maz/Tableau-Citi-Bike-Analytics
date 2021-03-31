@@ -2,6 +2,7 @@
 
 ### Before You Begin
 
+
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
 
 * If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
