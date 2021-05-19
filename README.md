@@ -1,5 +1,7 @@
 # Tableau - Citi Bike Analytics
 
+https://public.tableau.com/profile/sonny5205#!/vizhome/Tableauchallenge_16165983401890/Story1?publish=yes
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
