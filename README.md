@@ -1,7 +1,6 @@
 # Tableau - Citi Bike Analytics
 
-https://public.tableau.com/profile/sonny5205#!/vizhome/Tableauchallenge_16165983401890/Story1?publish=yes
-
+https://public.tableau.com/app/profile/sonny5205/viz/Tableauchallenge_16165983401890/Story1
 
 **The following are some questions to tackle.**
 
