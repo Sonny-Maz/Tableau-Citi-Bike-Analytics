@@ -35,26 +35,3 @@ https://public.tableau.com/profile/sonny5205#!/vizhome/Tableauchallenge_16165983
 
 * How variable is the utilization by bike ID?
 
-
-
-## Submission 
-
-final submission include:
-
-* A link to your Tableau Public workbook that includes: 
-  * 4-10 Total "Phenomenon" Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
-  * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-
-
-## Assessment
-
-final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
