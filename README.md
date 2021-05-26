@@ -3,7 +3,7 @@
 https://public.tableau.com/profile/sonny5205#!/vizhome/Tableauchallenge_16165983401890/Story1?publish=yes
 
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**The following are some questions to tackle.**
 
 * How many trips have been recorded total during the chosen period?
 
@@ -35,28 +35,11 @@ https://public.tableau.com/profile/sonny5205#!/vizhome/Tableauchallenge_16165983
 
 * How variable is the utilization by bike ID?
 
-**Next, as a chronic over-achiever:**
-
-* Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
-* The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
-
-**City officials would also like to see one of the following visualizations:**
-
-* **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
-
-* **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-
-* The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
-
-**Finally, create your final presentation**
-
-* Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-* This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 
 ## Submission 
 
-Your final submission should include:
+final submission include:
 
 * A link to your Tableau Public workbook that includes: 
   * 4-10 Total "Phenomenon" Visualizations 
@@ -75,9 +58,3 @@ final product will be assessed on the following metrics:
 * Readability
 
 * Visual Attraction
-
-
-
-### Copyright
-
-Data Boot Camp © 2019. All Rights Reserved.
