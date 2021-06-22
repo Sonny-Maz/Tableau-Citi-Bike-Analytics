@@ -1,6 +1,6 @@
 # Tableau - Citi Bike Analytics
 
-This project studies how COVID-19 impacked Citi-Bike in New York. Here is a limk to Tableau online:
+This project studies how COVID-19 impacted Citi-Bike in New York. Here is a limk to Tableau online:
 https://public.tableau.com/app/profile/sonny5205/viz/Tableauchallenge_16165983401890/Story1
 
 ![first](Images/1.png)
