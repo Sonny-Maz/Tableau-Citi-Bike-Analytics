@@ -27,13 +27,15 @@ Most of users have been the usual subscribers and have been using Citi Bike most
 
 4. Most popular Start/Stop Stations
 
+Stations are more spread out in 2020 due to some restrictions and population control as a result of COVID-19. 
+
 ![first](Images/4.png)
 
 5. COVID-19 Impact on Citi-Bike During 2019
 
 ![first](Images/5.png)
 
-6. COVID-19 Impact on Citi-Bike During 2019
+6. COVID-19 Impact on Citi-Bike During 2020
 
 ![first](Images/6.png)
 
