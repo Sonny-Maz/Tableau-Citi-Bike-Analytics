@@ -8,6 +8,7 @@ https://public.tableau.com/app/profile/sonny5205/viz/Tableauchallenge_1616598340
 
 # Analysis
 1. Trip Duration 2019 vs 2020
+
 Total number of customers and subscribers increased during the month of June 2020 due to COVID-19 impact. 
 
 ![first](Images/1.png)
