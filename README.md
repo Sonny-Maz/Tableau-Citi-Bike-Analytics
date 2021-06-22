@@ -31,11 +31,11 @@ Stations are more spread out in 2020 due to some restrictions and population con
 
 ![first](Images/4.png)
 
-5. COVID-19 Impact on Citi-Bike During 2019
+5. Citi-Bike 2019
 
 ![first](Images/5.png)
 
-6. COVID-19 Impact on Citi-Bike During 2020
+6. Citi-Bike 2020
 
 ![first](Images/6.png)
 
