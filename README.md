@@ -21,6 +21,8 @@ Some of the most popular stations during 2019 have been closed due to COVID-19 s
 
 3. Start/Stop Time for Users
 
+Most of users have been the usual subscribers and have been using Citi Bike mostly before and after work for transportation during 2019. In 2020 more customers have been using Citi Bike mostly in the evening due to COVID-19 imapct and not having to have a commute to work in the morning and working remotley.
+
 ![first](Images/3.png)
 
 4. Most popular Start/Stop Stations
