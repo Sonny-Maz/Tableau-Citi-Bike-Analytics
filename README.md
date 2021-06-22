@@ -15,6 +15,8 @@ Total number of customers and subscribers increased during the month of June 202
 
 2. Popular Stations
 
+Some of the most popular stations during 2019 have been closed due to COVID-19 so as a result some of the less popular stations got busy in 2020. 
+
 ![first](Images/2.png)
 
 3. Start/Stop Time for Users
