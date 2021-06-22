@@ -4,7 +4,6 @@
 Monthly CSV files (June 2019- June 2020) were collected from Citi Bike Data webpage.
 
 # Visualizations
-This project studies how COVID-19 impacted Citi-Bike in New York. Here is a link to Tableau online:
 https://public.tableau.com/app/profile/sonny5205/viz/Tableauchallenge_16165983401890/Story1
 
 # Analysis
